@@ -1,0 +1,18 @@
+C:\Documents and Settings\Administrator\桌面\EncodeOrDecode\EncodeOrDecode\bin\Debug\EncodeOrDecode.exe
+C:\Documents and Settings\Administrator\桌面\EncodeOrDecode\EncodeOrDecode\bin\Debug\EncodeOrDecode.pdb
+C:\Documents and Settings\Administrator\桌面\EncodeOrDecode\EncodeOrDecode\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\EncodeOrDecode\EncodeOrDecode\obj\x86\Debug\EncodeOrDecode.Main_Form.resources
+C:\Documents and Settings\Administrator\桌面\EncodeOrDecode\EncodeOrDecode\obj\x86\Debug\EncodeOrDecode.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\EncodeOrDecode\EncodeOrDecode\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\EncodeOrDecode\EncodeOrDecode\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\EncodeOrDecode\EncodeOrDecode\obj\x86\Debug\EncodeOrDecode.exe
+C:\Documents and Settings\Administrator\桌面\EncodeOrDecode\EncodeOrDecode\obj\x86\Debug\EncodeOrDecode.pdb
+C:\Users\ccchenji\Desktop\EncodeOrDecode\EncodeOrDecode\bin\Debug\EncodeOrDecode.exe
+C:\Users\ccchenji\Desktop\EncodeOrDecode\EncodeOrDecode\bin\Debug\EncodeOrDecode.pdb
+C:\Users\ccchenji\Desktop\EncodeOrDecode\EncodeOrDecode\obj\x86\Debug\EncodeOrDecode.csprojResolveAssemblyReference.cache
+C:\Users\ccchenji\Desktop\EncodeOrDecode\EncodeOrDecode\obj\x86\Debug\EncodeOrDecode.Main_Form.resources
+C:\Users\ccchenji\Desktop\EncodeOrDecode\EncodeOrDecode\obj\x86\Debug\EncodeOrDecode.Properties.Resources.resources
+C:\Users\ccchenji\Desktop\EncodeOrDecode\EncodeOrDecode\obj\x86\Debug\EncodeOrDecode.csproj.GenerateResource.cache
+C:\Users\ccchenji\Desktop\EncodeOrDecode\EncodeOrDecode\obj\x86\Debug\EncodeOrDecode.csproj.CoreCompileInputs.cache
+C:\Users\ccchenji\Desktop\EncodeOrDecode\EncodeOrDecode\obj\x86\Debug\EncodeOrDecode.exe
+C:\Users\ccchenji\Desktop\EncodeOrDecode\EncodeOrDecode\obj\x86\Debug\EncodeOrDecode.pdb

@@ -1,0 +1,23 @@
+E:\mycontrol\dash board control\dash board control\bin\Debug\dash board control.dll
+E:\mycontrol\dash board control\dash board control\bin\Debug\dash board control.pdb
+E:\mycontrol\dash board control\dash board control\obj\Debug\dash board control.csprojResolveAssemblyReference.cache
+E:\mycontrol\dash board control\dash board control\obj\Debug\dash_board_control.UserControl1.resources
+E:\mycontrol\dash board control\dash board control\obj\Debug\dash board control.csproj.GenerateResource.Cache
+E:\mycontrol\dash board control\dash board control\obj\Debug\dash board control.dll
+E:\mycontrol\dash board control\dash board control\obj\Debug\dash board control.pdb
+H:\C#写好的上位机\上位机\dash board control\dash board control\bin\Debug\dash board control.dll
+H:\C#写好的上位机\上位机\dash board control\dash board control\bin\Debug\dash board control.pdb
+H:\C#写好的上位机\上位机\dash board control\dash board control\obj\Debug\dash board control.csprojResolveAssemblyReference.cache
+H:\C#写好的上位机\上位机\dash board control\dash board control\obj\Debug\dash_board_control.UserControl1.resources
+H:\C#写好的上位机\上位机\dash board control\dash board control\obj\Debug\dash board control.csproj.GenerateResource.Cache
+H:\C#写好的上位机\上位机\dash board control\dash board control\obj\Debug\dash board control.csproj.CoreCompileInputs.cache
+H:\C#写好的上位机\上位机\dash board control\dash board control\obj\Debug\dash board control.dll
+H:\C#写好的上位机\上位机\dash board control\dash board control\obj\Debug\dash board control.pdb
+C:\Users\ccchenji\Desktop\上位机\dash board control\dash board control\bin\Debug\dash board control.dll
+C:\Users\ccchenji\Desktop\上位机\dash board control\dash board control\bin\Debug\dash board control.pdb
+C:\Users\ccchenji\Desktop\上位机\dash board control\dash board control\obj\Debug\dash board control.csprojResolveAssemblyReference.cache
+C:\Users\ccchenji\Desktop\上位机\dash board control\dash board control\obj\Debug\dash_board_control.UserControl1.resources
+C:\Users\ccchenji\Desktop\上位机\dash board control\dash board control\obj\Debug\dash board control.csproj.GenerateResource.Cache
+C:\Users\ccchenji\Desktop\上位机\dash board control\dash board control\obj\Debug\dash board control.csproj.CoreCompileInputs.cache
+C:\Users\ccchenji\Desktop\上位机\dash board control\dash board control\obj\Debug\dash board control.dll
+C:\Users\ccchenji\Desktop\上位机\dash board control\dash board control\obj\Debug\dash board control.pdb

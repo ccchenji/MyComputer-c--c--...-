@@ -1,0 +1,9 @@
+C:\Users\0\Desktop\C#\My_CPU\My_CPU\bin\Debug\My_CPU.exe.config
+C:\Users\0\Desktop\C#\My_CPU\My_CPU\bin\Debug\My_CPU.exe
+C:\Users\0\Desktop\C#\My_CPU\My_CPU\bin\Debug\My_CPU.pdb
+C:\Users\0\Desktop\C#\My_CPU\My_CPU\obj\Debug\My_CPU.csprojResolveAssemblyReference.cache
+C:\Users\0\Desktop\C#\My_CPU\My_CPU\obj\Debug\My_CPU.Form1.resources
+C:\Users\0\Desktop\C#\My_CPU\My_CPU\obj\Debug\My_CPU.Properties.Resources.resources
+C:\Users\0\Desktop\C#\My_CPU\My_CPU\obj\Debug\My_CPU.csproj.GenerateResource.Cache
+C:\Users\0\Desktop\C#\My_CPU\My_CPU\obj\Debug\My_CPU.exe
+C:\Users\0\Desktop\C#\My_CPU\My_CPU\obj\Debug\My_CPU.pdb

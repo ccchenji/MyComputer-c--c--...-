@@ -1,0 +1,6 @@
+C:\Users\0\Desktop\C#\WelcomeYou\WelcomeYou\bin\Debug\WelcomeYou.exe.config
+C:\Users\0\Desktop\C#\WelcomeYou\WelcomeYou\bin\Debug\WelcomeYou.exe
+C:\Users\0\Desktop\C#\WelcomeYou\WelcomeYou\bin\Debug\WelcomeYou.pdb
+C:\Users\0\Desktop\C#\WelcomeYou\WelcomeYou\obj\Debug\WelcomeYou.csprojResolveAssemblyReference.cache
+C:\Users\0\Desktop\C#\WelcomeYou\WelcomeYou\obj\Debug\WelcomeYou.exe
+C:\Users\0\Desktop\C#\WelcomeYou\WelcomeYou\obj\Debug\WelcomeYou.pdb

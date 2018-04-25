@@ -1,0 +1,5 @@
+C:\Users\0\Desktop\C#\ValueType\ValueType\bin\Debug\ValueType.exe
+C:\Users\0\Desktop\C#\ValueType\ValueType\bin\Debug\ValueType.pdb
+C:\Users\0\Desktop\C#\ValueType\ValueType\obj\Debug\ValueType.csprojResolveAssemblyReference.cache
+C:\Users\0\Desktop\C#\ValueType\ValueType\obj\Debug\ValueType.exe
+C:\Users\0\Desktop\C#\ValueType\ValueType\obj\Debug\ValueType.pdb

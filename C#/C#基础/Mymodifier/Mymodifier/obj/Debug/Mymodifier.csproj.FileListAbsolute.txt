@@ -1,0 +1,5 @@
+C:\Users\0\Desktop\C#\Mymodifier\Mymodifier\bin\Debug\Mymodifier.exe
+C:\Users\0\Desktop\C#\Mymodifier\Mymodifier\bin\Debug\Mymodifier.pdb
+C:\Users\0\Desktop\C#\Mymodifier\Mymodifier\obj\Debug\Mymodifier.csprojResolveAssemblyReference.cache
+C:\Users\0\Desktop\C#\Mymodifier\Mymodifier\obj\Debug\Mymodifier.exe
+C:\Users\0\Desktop\C#\Mymodifier\Mymodifier\obj\Debug\Mymodifier.pdb

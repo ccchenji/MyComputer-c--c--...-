@@ -1,0 +1,8 @@
+C:\Users\0\Desktop\C#\Text\Text\bin\Debug\Text.exe
+C:\Users\0\Desktop\C#\Text\Text\bin\Debug\Text.pdb
+C:\Users\0\Desktop\C#\Text\Text\obj\Debug\Text.csprojResolveAssemblyReference.cache
+C:\Users\0\Desktop\C#\Text\Text\obj\Debug\Text.Form1.resources
+C:\Users\0\Desktop\C#\Text\Text\obj\Debug\Text.Properties.Resources.resources
+C:\Users\0\Desktop\C#\Text\Text\obj\Debug\Text.csproj.GenerateResource.Cache
+C:\Users\0\Desktop\C#\Text\Text\obj\Debug\Text.exe
+C:\Users\0\Desktop\C#\Text\Text\obj\Debug\Text.pdb

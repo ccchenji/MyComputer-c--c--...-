@@ -1,0 +1,6 @@
+C:\Users\0\Desktop\C#\Ny_Csharp1\Ny_Csharp1\bin\Debug\Ny_Csharp1.exe.config
+C:\Users\0\Desktop\C#\Ny_Csharp1\Ny_Csharp1\bin\Debug\Ny_Csharp1.exe
+C:\Users\0\Desktop\C#\Ny_Csharp1\Ny_Csharp1\bin\Debug\Ny_Csharp1.pdb
+C:\Users\0\Desktop\C#\Ny_Csharp1\Ny_Csharp1\obj\Debug\Ny_Csharp1.csprojResolveAssemblyReference.cache
+C:\Users\0\Desktop\C#\Ny_Csharp1\Ny_Csharp1\obj\Debug\Ny_Csharp1.exe
+C:\Users\0\Desktop\C#\Ny_Csharp1\Ny_Csharp1\obj\Debug\Ny_Csharp1.pdb

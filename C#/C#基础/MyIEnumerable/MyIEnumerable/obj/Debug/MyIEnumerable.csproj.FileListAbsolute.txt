@@ -1,0 +1,7 @@
+C:\Users\ccchenji\Desktop\C#\MyIEnumerable\MyIEnumerable\bin\Debug\MyIEnumerable.exe.config
+C:\Users\ccchenji\Desktop\C#\MyIEnumerable\MyIEnumerable\bin\Debug\MyIEnumerable.exe
+C:\Users\ccchenji\Desktop\C#\MyIEnumerable\MyIEnumerable\bin\Debug\MyIEnumerable.pdb
+C:\Users\ccchenji\Desktop\C#\MyIEnumerable\MyIEnumerable\obj\Debug\MyIEnumerable.csprojResolveAssemblyReference.cache
+C:\Users\ccchenji\Desktop\C#\MyIEnumerable\MyIEnumerable\obj\Debug\MyIEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\ccchenji\Desktop\C#\MyIEnumerable\MyIEnumerable\obj\Debug\MyIEnumerable.exe
+C:\Users\ccchenji\Desktop\C#\MyIEnumerable\MyIEnumerable\obj\Debug\MyIEnumerable.pdb

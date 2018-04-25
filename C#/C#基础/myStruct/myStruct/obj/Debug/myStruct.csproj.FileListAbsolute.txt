@@ -1,0 +1,11 @@
+C:\Users\0\Desktop\C#\myStruct\myStruct\bin\Debug\myStruct.exe
+C:\Users\0\Desktop\C#\myStruct\myStruct\bin\Debug\myStruct.pdb
+C:\Users\0\Desktop\C#\myStruct\myStruct\obj\Debug\myStruct.csprojResolveAssemblyReference.cache
+C:\Users\0\Desktop\C#\myStruct\myStruct\obj\Debug\myStruct.exe
+C:\Users\0\Desktop\C#\myStruct\myStruct\obj\Debug\myStruct.pdb
+C:\Users\ccchenji\Desktop\C#\myStruct\myStruct\bin\Debug\myStruct.exe
+C:\Users\ccchenji\Desktop\C#\myStruct\myStruct\bin\Debug\myStruct.pdb
+C:\Users\ccchenji\Desktop\C#\myStruct\myStruct\obj\Debug\myStruct.csprojResolveAssemblyReference.cache
+C:\Users\ccchenji\Desktop\C#\myStruct\myStruct\obj\Debug\myStruct.csproj.CoreCompileInputs.cache
+C:\Users\ccchenji\Desktop\C#\myStruct\myStruct\obj\Debug\myStruct.exe
+C:\Users\ccchenji\Desktop\C#\myStruct\myStruct\obj\Debug\myStruct.pdb

@@ -1,0 +1,6 @@
+C:\Users\0\Desktop\C#\class_way\class_way\bin\Debug\class_way.exe.config
+C:\Users\0\Desktop\C#\class_way\class_way\bin\Debug\class_way.exe
+C:\Users\0\Desktop\C#\class_way\class_way\bin\Debug\class_way.pdb
+C:\Users\0\Desktop\C#\class_way\class_way\obj\Debug\class_way.csprojResolveAssemblyReference.cache
+C:\Users\0\Desktop\C#\class_way\class_way\obj\Debug\class_way.exe
+C:\Users\0\Desktop\C#\class_way\class_way\obj\Debug\class_way.pdb

@@ -1,0 +1,5 @@
+C:\Users\0\Desktop\C#\ReviewInterface\ReviewInterface\bin\Debug\ReviewInterface.exe
+C:\Users\0\Desktop\C#\ReviewInterface\ReviewInterface\bin\Debug\ReviewInterface.pdb
+C:\Users\0\Desktop\C#\ReviewInterface\ReviewInterface\obj\Debug\ReviewInterface.csprojResolveAssemblyReference.cache
+C:\Users\0\Desktop\C#\ReviewInterface\ReviewInterface\obj\Debug\ReviewInterface.exe
+C:\Users\0\Desktop\C#\ReviewInterface\ReviewInterface\obj\Debug\ReviewInterface.pdb

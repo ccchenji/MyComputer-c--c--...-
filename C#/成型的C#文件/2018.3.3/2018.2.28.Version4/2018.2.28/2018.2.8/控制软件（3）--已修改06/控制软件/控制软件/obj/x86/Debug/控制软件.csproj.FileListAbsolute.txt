@@ -1,0 +1,45 @@
+F:\从头再来\C#2010\控制软件\控制软件\obj\x86\Debug\控制软件.csprojResolveAssemblyReference.cache
+F:\从头再来\C#2010\控制软件\控制软件\obj\x86\Debug\控制软件.Form1.resources
+F:\从头再来\C#2010\控制软件\控制软件\obj\x86\Debug\控制软件.Properties.Resources.resources
+F:\从头再来\C#2010\控制软件\控制软件\obj\x86\Debug\控制软件.csproj.GenerateResource.Cache
+F:\从头再来\C#2010\控制软件\控制软件\bin\Debug\控制软件.exe
+F:\从头再来\C#2010\控制软件\控制软件\bin\Debug\控制软件.pdb
+F:\从头再来\C#2010\控制软件\控制软件\obj\x86\Debug\控制软件.exe
+F:\从头再来\C#2010\控制软件\控制软件\obj\x86\Debug\控制软件.pdb
+F:\从头再来\C#2010\控制软件\控制软件\obj\x86\Debug\控制软件.test.resources
+E:\htq\毕设\2016\cdio赵永恩_ACARS数据分析软件设计\软件、论文\控制软件 第六版\控制软件\obj\x86\Debug\控制软件.exe
+E:\htq\毕设\2016\cdio赵永恩_ACARS数据分析软件设计\软件、论文\控制软件 第六版\控制软件\obj\x86\Debug\控制软件.pdb
+E:\htq\毕设\2016\cdio赵永恩_ACARS数据分析软件设计\软件、论文\控制软件 第六版\控制软件\bin\Debug\控制软件.exe
+E:\htq\毕设\2016\cdio赵永恩_ACARS数据分析软件设计\软件、论文\控制软件 第六版\控制软件\bin\Debug\控制软件.pdb
+E:\htq\毕设\2016\cdio赵永恩_ACARS数据分析软件设计\软件、论文\控制软件 第六版\控制软件\obj\x86\Debug\控制软件.csprojResolveAssemblyReference.cache
+E:\htq\毕设\2016\cdio赵永恩_ACARS数据分析软件设计\软件、论文\控制软件 第六版\控制软件\obj\x86\Debug\控制软件.Form1.resources
+E:\htq\毕设\2016\cdio赵永恩_ACARS数据分析软件设计\软件、论文\控制软件 第六版\控制软件\obj\x86\Debug\控制软件.Properties.Resources.resources
+E:\htq\毕设\2016\cdio赵永恩_ACARS数据分析软件设计\软件、论文\控制软件 第六版\控制软件\obj\x86\Debug\控制软件.test.resources
+E:\htq\毕设\2016\cdio赵永恩_ACARS数据分析软件设计\软件、论文\控制软件 第六版\控制软件\obj\x86\Debug\控制软件.csproj.GenerateResource.Cache
+D:\03.labsolution\acars\XC7A100T\控制软件\控制软件\obj\x86\Debug\控制软件.csprojResolveAssemblyReference.cache
+D:\03.labsolution\acars\XC7A100T\控制软件\控制软件\obj\x86\Debug\控制软件.Form1.resources
+D:\03.labsolution\acars\XC7A100T\控制软件\控制软件\obj\x86\Debug\控制软件.Properties.Resources.resources
+D:\03.labsolution\acars\XC7A100T\控制软件\控制软件\obj\x86\Debug\控制软件.test.resources
+D:\03.labsolution\acars\XC7A100T\控制软件\控制软件\obj\x86\Debug\控制软件.csproj.GenerateResource.Cache
+D:\03.labsolution\acars\XC7A100T\控制软件\控制软件\bin\Debug\ACARS电台控制.exe
+D:\03.labsolution\acars\XC7A100T\控制软件\控制软件\bin\Debug\ACARS电台控制.pdb
+D:\03.labsolution\acars\XC7A100T\控制软件\控制软件\obj\x86\Debug\ACARS电台控制.exe
+D:\03.labsolution\acars\XC7A100T\控制软件\控制软件\obj\x86\Debug\ACARS电台控制.pdb
+E:\htq\VOR\VOR_FPGA\控制软件\控制软件\bin\Debug\VOR演示系统控制.exe
+E:\htq\VOR\VOR_FPGA\控制软件\控制软件\bin\Debug\VOR演示系统控制.pdb
+E:\htq\VOR\VOR_FPGA\控制软件\控制软件\obj\x86\Debug\控制软件.csprojResolveAssemblyReference.cache
+E:\htq\VOR\VOR_FPGA\控制软件\控制软件\obj\x86\Debug\控制软件.Form1.resources
+E:\htq\VOR\VOR_FPGA\控制软件\控制软件\obj\x86\Debug\控制软件.Properties.Resources.resources
+E:\htq\VOR\VOR_FPGA\控制软件\控制软件\obj\x86\Debug\控制软件.test.resources
+E:\htq\VOR\VOR_FPGA\控制软件\控制软件\obj\x86\Debug\控制软件.csproj.GenerateResource.Cache
+E:\htq\VOR\VOR_FPGA\控制软件\控制软件\obj\x86\Debug\VOR演示系统控制.exe
+E:\htq\VOR\VOR_FPGA\控制软件\控制软件\obj\x86\Debug\VOR演示系统控制.pdb
+C:\Users\lenovo\Desktop\控制软件\控制软件\控制软件\obj\x86\Debug\VOR演示系统控制.exe
+C:\Users\lenovo\Desktop\控制软件\控制软件\控制软件\obj\x86\Debug\VOR演示系统控制.pdb
+C:\Users\lenovo\Desktop\控制软件\控制软件\控制软件\bin\Debug\VOR演示系统控制.exe
+C:\Users\lenovo\Desktop\控制软件\控制软件\控制软件\bin\Debug\VOR演示系统控制.pdb
+C:\Users\lenovo\Desktop\控制软件\控制软件\控制软件\obj\x86\Debug\控制软件.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\控制软件\控制软件\控制软件\obj\x86\Debug\控制软件.Form1.resources
+C:\Users\lenovo\Desktop\控制软件\控制软件\控制软件\obj\x86\Debug\控制软件.Properties.Resources.resources
+C:\Users\lenovo\Desktop\控制软件\控制软件\控制软件\obj\x86\Debug\控制软件.test.resources
+C:\Users\lenovo\Desktop\控制软件\控制软件\控制软件\obj\x86\Debug\控制软件.csproj.GenerateResource.Cache

@@ -1,0 +1,10 @@
+C:\Users\ccchenji\Desktop\c#Book\MyThread\MyThread\bin\Debug\MyThread.exe.config
+C:\Users\ccchenji\Desktop\c#Book\MyThread\MyThread\bin\Debug\MyThread.exe
+C:\Users\ccchenji\Desktop\c#Book\MyThread\MyThread\bin\Debug\MyThread.pdb
+C:\Users\ccchenji\Desktop\c#Book\MyThread\MyThread\obj\Debug\MyThread.csprojResolveAssemblyReference.cache
+C:\Users\ccchenji\Desktop\c#Book\MyThread\MyThread\obj\Debug\MyThread.Form1.resources
+C:\Users\ccchenji\Desktop\c#Book\MyThread\MyThread\obj\Debug\MyThread.Properties.Resources.resources
+C:\Users\ccchenji\Desktop\c#Book\MyThread\MyThread\obj\Debug\MyThread.csproj.GenerateResource.Cache
+C:\Users\ccchenji\Desktop\c#Book\MyThread\MyThread\obj\Debug\MyThread.csproj.CoreCompileInputs.cache
+C:\Users\ccchenji\Desktop\c#Book\MyThread\MyThread\obj\Debug\MyThread.exe
+C:\Users\ccchenji\Desktop\c#Book\MyThread\MyThread\obj\Debug\MyThread.pdb

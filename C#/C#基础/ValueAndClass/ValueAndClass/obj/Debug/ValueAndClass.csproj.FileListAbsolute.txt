@@ -1,0 +1,7 @@
+C:\Users\ccchenji\Desktop\C#\ValueAndClass\ValueAndClass\bin\Debug\ValueAndClass.exe.config
+C:\Users\ccchenji\Desktop\C#\ValueAndClass\ValueAndClass\bin\Debug\ValueAndClass.exe
+C:\Users\ccchenji\Desktop\C#\ValueAndClass\ValueAndClass\bin\Debug\ValueAndClass.pdb
+C:\Users\ccchenji\Desktop\C#\ValueAndClass\ValueAndClass\obj\Debug\ValueAndClass.csprojResolveAssemblyReference.cache
+C:\Users\ccchenji\Desktop\C#\ValueAndClass\ValueAndClass\obj\Debug\ValueAndClass.csproj.CoreCompileInputs.cache
+C:\Users\ccchenji\Desktop\C#\ValueAndClass\ValueAndClass\obj\Debug\ValueAndClass.exe
+C:\Users\ccchenji\Desktop\C#\ValueAndClass\ValueAndClass\obj\Debug\ValueAndClass.pdb

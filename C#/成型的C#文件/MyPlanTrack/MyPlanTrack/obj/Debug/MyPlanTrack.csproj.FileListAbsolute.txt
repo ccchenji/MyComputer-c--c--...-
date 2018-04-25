@@ -1,0 +1,8 @@
+C:\Users\ccchenji\Desktop\MyPlanTrack\MyPlanTrack\obj\Debug\MyPlanTrack.csprojResolveAssemblyReference.cache
+C:\Users\ccchenji\Desktop\MyPlanTrack\MyPlanTrack\obj\Debug\MyPlanTrack.csproj.GenerateResource.Cache
+C:\Users\ccchenji\Desktop\MyPlanTrack\MyPlanTrack\obj\Debug\MyPlanTrack.csproj.CoreCompileInputs.cache
+C:\Users\ccchenji\Desktop\MyPlanTrack\MyPlanTrack\bin\Debug\MyPlanTrack.dll
+C:\Users\ccchenji\Desktop\MyPlanTrack\MyPlanTrack\bin\Debug\MyPlanTrack.pdb
+C:\Users\ccchenji\Desktop\MyPlanTrack\MyPlanTrack\obj\Debug\MyPlanTrack.UserControl1.resources
+C:\Users\ccchenji\Desktop\MyPlanTrack\MyPlanTrack\obj\Debug\MyPlanTrack.dll
+C:\Users\ccchenji\Desktop\MyPlanTrack\MyPlanTrack\obj\Debug\MyPlanTrack.pdb

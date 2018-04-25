@@ -1,0 +1,7 @@
+C:\Users\ccchenji\Desktop\C#\DirectorAndFile\DirectorAndFile\bin\Debug\DirectorAndFile.exe.config
+C:\Users\ccchenji\Desktop\C#\DirectorAndFile\DirectorAndFile\bin\Debug\DirectorAndFile.exe
+C:\Users\ccchenji\Desktop\C#\DirectorAndFile\DirectorAndFile\bin\Debug\DirectorAndFile.pdb
+C:\Users\ccchenji\Desktop\C#\DirectorAndFile\DirectorAndFile\obj\Debug\DirectorAndFile.csprojResolveAssemblyReference.cache
+C:\Users\ccchenji\Desktop\C#\DirectorAndFile\DirectorAndFile\obj\Debug\DirectorAndFile.csproj.CoreCompileInputs.cache
+C:\Users\ccchenji\Desktop\C#\DirectorAndFile\DirectorAndFile\obj\Debug\DirectorAndFile.exe
+C:\Users\ccchenji\Desktop\C#\DirectorAndFile\DirectorAndFile\obj\Debug\DirectorAndFile.pdb

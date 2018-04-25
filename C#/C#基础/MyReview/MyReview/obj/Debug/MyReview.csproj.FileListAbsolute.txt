@@ -1,0 +1,7 @@
+C:\Users\ccchenji\Desktop\C#\MyReview\MyReview\bin\Debug\MyReview.exe.config
+C:\Users\ccchenji\Desktop\C#\MyReview\MyReview\bin\Debug\MyReview.exe
+C:\Users\ccchenji\Desktop\C#\MyReview\MyReview\bin\Debug\MyReview.pdb
+C:\Users\ccchenji\Desktop\C#\MyReview\MyReview\obj\Debug\MyReview.csprojResolveAssemblyReference.cache
+C:\Users\ccchenji\Desktop\C#\MyReview\MyReview\obj\Debug\MyReview.csproj.CoreCompileInputs.cache
+C:\Users\ccchenji\Desktop\C#\MyReview\MyReview\obj\Debug\MyReview.exe
+C:\Users\ccchenji\Desktop\C#\MyReview\MyReview\obj\Debug\MyReview.pdb

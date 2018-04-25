@@ -1,0 +1,5 @@
+C:\Users\0\Desktop\C#\MyLambda\MyLambda\bin\Debug\MyLambda.exe
+C:\Users\0\Desktop\C#\MyLambda\MyLambda\bin\Debug\MyLambda.pdb
+C:\Users\0\Desktop\C#\MyLambda\MyLambda\obj\Debug\MyLambda.csprojResolveAssemblyReference.cache
+C:\Users\0\Desktop\C#\MyLambda\MyLambda\obj\Debug\MyLambda.exe
+C:\Users\0\Desktop\C#\MyLambda\MyLambda\obj\Debug\MyLambda.pdb

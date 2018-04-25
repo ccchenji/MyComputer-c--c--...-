@@ -1,0 +1,10 @@
+C:\Users\0\Desktop\C#\My_performance\My_performance\bin\Debug\My_performance.exe.config
+C:\Users\0\Desktop\C#\My_performance\My_performance\bin\Debug\My_performance.exe
+C:\Users\0\Desktop\C#\My_performance\My_performance\bin\Debug\My_performance.pdb
+C:\Users\0\Desktop\C#\My_performance\My_performance\obj\Debug\My_performance.csprojResolveAssemblyReference.cache
+C:\Users\0\Desktop\C#\My_performance\My_performance\obj\Debug\My_performance.Form1.resources
+C:\Users\0\Desktop\C#\My_performance\My_performance\obj\Debug\My_performance.Properties.Resources.resources
+C:\Users\0\Desktop\C#\My_performance\My_performance\obj\Debug\My_performance.csproj.GenerateResource.Cache
+C:\Users\0\Desktop\C#\My_performance\My_performance\obj\Debug\My_performance.exe
+C:\Users\0\Desktop\C#\My_performance\My_performance\obj\Debug\My_performance.pdb
+C:\Users\0\Desktop\C#\My_performance\My_performance\obj\Debug\My_performance.Form2.resources

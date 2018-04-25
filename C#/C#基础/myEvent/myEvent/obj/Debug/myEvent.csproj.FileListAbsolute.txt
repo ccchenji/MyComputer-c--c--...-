@@ -1,0 +1,5 @@
+C:\Users\0\Desktop\C#\myEvent\myEvent\bin\Debug\myEvent.exe
+C:\Users\0\Desktop\C#\myEvent\myEvent\bin\Debug\myEvent.pdb
+C:\Users\0\Desktop\C#\myEvent\myEvent\obj\Debug\myEvent.csprojResolveAssemblyReference.cache
+C:\Users\0\Desktop\C#\myEvent\myEvent\obj\Debug\myEvent.exe
+C:\Users\0\Desktop\C#\myEvent\myEvent\obj\Debug\myEvent.pdb

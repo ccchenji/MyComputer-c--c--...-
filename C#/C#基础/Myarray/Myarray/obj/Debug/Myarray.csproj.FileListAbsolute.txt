@@ -1,0 +1,5 @@
+C:\Users\0\Desktop\C#\Myarray\Myarray\bin\Debug\Myarray.exe
+C:\Users\0\Desktop\C#\Myarray\Myarray\bin\Debug\Myarray.pdb
+C:\Users\0\Desktop\C#\Myarray\Myarray\obj\Debug\Myarray.csprojResolveAssemblyReference.cache
+C:\Users\0\Desktop\C#\Myarray\Myarray\obj\Debug\Myarray.exe
+C:\Users\0\Desktop\C#\Myarray\Myarray\obj\Debug\Myarray.pdb

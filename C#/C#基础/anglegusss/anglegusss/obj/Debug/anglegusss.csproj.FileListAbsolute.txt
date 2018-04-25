@@ -1,0 +1,5 @@
+C:\Users\0\Desktop\C#\anglegusss\anglegusss\bin\Debug\anglegusss.exe
+C:\Users\0\Desktop\C#\anglegusss\anglegusss\bin\Debug\anglegusss.pdb
+C:\Users\0\Desktop\C#\anglegusss\anglegusss\obj\Debug\anglegusss.csprojResolveAssemblyReference.cache
+C:\Users\0\Desktop\C#\anglegusss\anglegusss\obj\Debug\anglegusss.exe
+C:\Users\0\Desktop\C#\anglegusss\anglegusss\obj\Debug\anglegusss.pdb

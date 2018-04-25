@@ -1,0 +1,10 @@
+C:\Users\ccchenji\Desktop\C#\MyGDI\MyGDI\bin\Debug\MyGDI.exe.config
+C:\Users\ccchenji\Desktop\C#\MyGDI\MyGDI\bin\Debug\MyGDI.exe
+C:\Users\ccchenji\Desktop\C#\MyGDI\MyGDI\bin\Debug\MyGDI.pdb
+C:\Users\ccchenji\Desktop\C#\MyGDI\MyGDI\obj\Debug\MyGDI.csprojResolveAssemblyReference.cache
+C:\Users\ccchenji\Desktop\C#\MyGDI\MyGDI\obj\Debug\MyGDI.Form1.resources
+C:\Users\ccchenji\Desktop\C#\MyGDI\MyGDI\obj\Debug\MyGDI.Properties.Resources.resources
+C:\Users\ccchenji\Desktop\C#\MyGDI\MyGDI\obj\Debug\MyGDI.csproj.GenerateResource.Cache
+C:\Users\ccchenji\Desktop\C#\MyGDI\MyGDI\obj\Debug\MyGDI.csproj.CoreCompileInputs.cache
+C:\Users\ccchenji\Desktop\C#\MyGDI\MyGDI\obj\Debug\MyGDI.exe
+C:\Users\ccchenji\Desktop\C#\MyGDI\MyGDI\obj\Debug\MyGDI.pdb

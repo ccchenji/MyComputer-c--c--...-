@@ -1,0 +1,6 @@
+C:\Users\0\Desktop\C#\MyAbnormal\MyAbnormal\bin\Debug\MyAbnormal.exe
+C:\Users\0\Desktop\C#\MyAbnormal\MyAbnormal\bin\Debug\MyAbnormal.pdb
+C:\Users\0\Desktop\C#\MyAbnormal\MyAbnormal\obj\Debug\MyAbnormal.csprojResolveAssemblyReference.cache
+C:\Users\0\Desktop\C#\MyAbnormal\MyAbnormal\obj\Debug\MyAbnormal.exe
+C:\Users\0\Desktop\C#\MyAbnormal\MyAbnormal\obj\Debug\MyAbnormal.pdb
+C:\Users\0\Desktop\C#\MyAbnormal\MyAbnormal\bin\Debug\MyAbnormal.exe.config

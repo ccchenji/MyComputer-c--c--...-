@@ -1,0 +1,6 @@
+C:\Users\0\Desktop\C#\My_interface\My_interface\bin\Debug\My_interface.exe.config
+C:\Users\0\Desktop\C#\My_interface\My_interface\bin\Debug\My_interface.exe
+C:\Users\0\Desktop\C#\My_interface\My_interface\bin\Debug\My_interface.pdb
+C:\Users\0\Desktop\C#\My_interface\My_interface\obj\Debug\My_interface.csprojResolveAssemblyReference.cache
+C:\Users\0\Desktop\C#\My_interface\My_interface\obj\Debug\My_interface.exe
+C:\Users\0\Desktop\C#\My_interface\My_interface\obj\Debug\My_interface.pdb

@@ -1,0 +1,5 @@
+C:\Users\0\Desktop\C#\Newinterface\Newinterface\bin\Debug\Newinterface.exe
+C:\Users\0\Desktop\C#\Newinterface\Newinterface\bin\Debug\Newinterface.pdb
+C:\Users\0\Desktop\C#\Newinterface\Newinterface\obj\Debug\Newinterface.csprojResolveAssemblyReference.cache
+C:\Users\0\Desktop\C#\Newinterface\Newinterface\obj\Debug\Newinterface.exe
+C:\Users\0\Desktop\C#\Newinterface\Newinterface\obj\Debug\Newinterface.pdb

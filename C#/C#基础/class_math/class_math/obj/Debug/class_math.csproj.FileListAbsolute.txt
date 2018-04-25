@@ -1,0 +1,6 @@
+C:\Users\0\Desktop\C#\class_math\class_math\bin\Debug\class_math.exe.config
+C:\Users\0\Desktop\C#\class_math\class_math\bin\Debug\class_math.exe
+C:\Users\0\Desktop\C#\class_math\class_math\bin\Debug\class_math.pdb
+C:\Users\0\Desktop\C#\class_math\class_math\obj\Debug\class_math.csprojResolveAssemblyReference.cache
+C:\Users\0\Desktop\C#\class_math\class_math\obj\Debug\class_math.exe
+C:\Users\0\Desktop\C#\class_math\class_math\obj\Debug\class_math.pdb

@@ -1,0 +1,7 @@
+c:\users\0\documents\visual studio 2017\Projects\MyFirstControl\MyFirstControl\bin\Debug\MyFirstControl.dll
+c:\users\0\documents\visual studio 2017\Projects\MyFirstControl\MyFirstControl\bin\Debug\MyFirstControl.pdb
+c:\users\0\documents\visual studio 2017\Projects\MyFirstControl\MyFirstControl\obj\Debug\MyFirstControl.csprojResolveAssemblyReference.cache
+c:\users\0\documents\visual studio 2017\Projects\MyFirstControl\MyFirstControl\obj\Debug\MyFirstControl.UserControl1.resources
+c:\users\0\documents\visual studio 2017\Projects\MyFirstControl\MyFirstControl\obj\Debug\MyFirstControl.csproj.GenerateResource.Cache
+c:\users\0\documents\visual studio 2017\Projects\MyFirstControl\MyFirstControl\obj\Debug\MyFirstControl.dll
+c:\users\0\documents\visual studio 2017\Projects\MyFirstControl\MyFirstControl\obj\Debug\MyFirstControl.pdb

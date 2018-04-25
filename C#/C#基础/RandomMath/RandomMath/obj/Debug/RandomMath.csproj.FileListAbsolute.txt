@@ -1,0 +1,8 @@
+C:\Users\0\Desktop\C#\RandomMath\RandomMath\bin\Debug\RandomMath.exe
+C:\Users\0\Desktop\C#\RandomMath\RandomMath\bin\Debug\RandomMath.pdb
+C:\Users\0\Desktop\C#\RandomMath\RandomMath\obj\Debug\RandomMath.csprojResolveAssemblyReference.cache
+C:\Users\0\Desktop\C#\RandomMath\RandomMath\obj\Debug\RandomMath.Form1.resources
+C:\Users\0\Desktop\C#\RandomMath\RandomMath\obj\Debug\RandomMath.Properties.Resources.resources
+C:\Users\0\Desktop\C#\RandomMath\RandomMath\obj\Debug\RandomMath.csproj.GenerateResource.Cache
+C:\Users\0\Desktop\C#\RandomMath\RandomMath\obj\Debug\RandomMath.exe
+C:\Users\0\Desktop\C#\RandomMath\RandomMath\obj\Debug\RandomMath.pdb

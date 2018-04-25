@@ -1,0 +1,4 @@
+C:\Users\0\Desktop\C#\BoolArray\BoolArray\bin\Debug\BoolArray.exe
+C:\Users\0\Desktop\C#\BoolArray\BoolArray\bin\Debug\BoolArray.pdb
+C:\Users\0\Desktop\C#\BoolArray\BoolArray\obj\Debug\BoolArray.exe
+C:\Users\0\Desktop\C#\BoolArray\BoolArray\obj\Debug\BoolArray.pdb

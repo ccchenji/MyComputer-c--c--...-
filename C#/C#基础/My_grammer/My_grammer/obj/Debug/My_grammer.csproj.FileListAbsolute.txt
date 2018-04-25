@@ -1,0 +1,6 @@
+C:\Users\0\Desktop\C#\My_grammer\My_grammer\bin\Debug\My_grammer.exe.config
+C:\Users\0\Desktop\C#\My_grammer\My_grammer\bin\Debug\My_grammer.exe
+C:\Users\0\Desktop\C#\My_grammer\My_grammer\bin\Debug\My_grammer.pdb
+C:\Users\0\Desktop\C#\My_grammer\My_grammer\obj\Debug\My_grammer.csprojResolveAssemblyReference.cache
+C:\Users\0\Desktop\C#\My_grammer\My_grammer\obj\Debug\My_grammer.exe
+C:\Users\0\Desktop\C#\My_grammer\My_grammer\obj\Debug\My_grammer.pdb

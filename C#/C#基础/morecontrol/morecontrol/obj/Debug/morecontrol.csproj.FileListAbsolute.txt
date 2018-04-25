@@ -1,0 +1,8 @@
+C:\Users\0\Desktop\C#\morecontrol\morecontrol\bin\Debug\morecontrol.exe
+C:\Users\0\Desktop\C#\morecontrol\morecontrol\bin\Debug\morecontrol.pdb
+C:\Users\0\Desktop\C#\morecontrol\morecontrol\obj\Debug\morecontrol.csprojResolveAssemblyReference.cache
+C:\Users\0\Desktop\C#\morecontrol\morecontrol\obj\Debug\morecontrol.Form1.resources
+C:\Users\0\Desktop\C#\morecontrol\morecontrol\obj\Debug\morecontrol.Properties.Resources.resources
+C:\Users\0\Desktop\C#\morecontrol\morecontrol\obj\Debug\morecontrol.csproj.GenerateResource.Cache
+C:\Users\0\Desktop\C#\morecontrol\morecontrol\obj\Debug\morecontrol.exe
+C:\Users\0\Desktop\C#\morecontrol\morecontrol\obj\Debug\morecontrol.pdb

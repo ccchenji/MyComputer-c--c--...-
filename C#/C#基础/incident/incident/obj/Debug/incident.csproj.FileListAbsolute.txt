@@ -1,0 +1,6 @@
+C:\Users\0\Desktop\C#\incident\incident\bin\Debug\incident.exe.config
+C:\Users\0\Desktop\C#\incident\incident\bin\Debug\incident.exe
+C:\Users\0\Desktop\C#\incident\incident\bin\Debug\incident.pdb
+C:\Users\0\Desktop\C#\incident\incident\obj\Debug\incident.csprojResolveAssemblyReference.cache
+C:\Users\0\Desktop\C#\incident\incident\obj\Debug\incident.exe
+C:\Users\0\Desktop\C#\incident\incident\obj\Debug\incident.pdb

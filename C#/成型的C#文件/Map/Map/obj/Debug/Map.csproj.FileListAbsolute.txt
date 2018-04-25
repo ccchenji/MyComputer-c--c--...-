@@ -1,0 +1,9 @@
+C:\Users\ccchenji\Desktop\Map\Map\bin\Debug\Map.exe
+C:\Users\ccchenji\Desktop\Map\Map\bin\Debug\Map.pdb
+C:\Users\ccchenji\Desktop\Map\Map\obj\Debug\Map.csprojResolveAssemblyReference.cache
+C:\Users\ccchenji\Desktop\Map\Map\obj\Debug\Map.Form1.resources
+C:\Users\ccchenji\Desktop\Map\Map\obj\Debug\Map.Properties.Resources.resources
+C:\Users\ccchenji\Desktop\Map\Map\obj\Debug\Map.csproj.GenerateResource.Cache
+C:\Users\ccchenji\Desktop\Map\Map\obj\Debug\Map.csproj.CoreCompileInputs.cache
+C:\Users\ccchenji\Desktop\Map\Map\obj\Debug\Map.exe
+C:\Users\ccchenji\Desktop\Map\Map\obj\Debug\Map.pdb

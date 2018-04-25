@@ -1,0 +1,6 @@
+C:\Users\0\Desktop\C#\CustomInterface\CustomInterface\bin\Debug\CustomInterface.exe.config
+C:\Users\0\Desktop\C#\CustomInterface\CustomInterface\bin\Debug\CustomInterface.exe
+C:\Users\0\Desktop\C#\CustomInterface\CustomInterface\bin\Debug\CustomInterface.pdb
+C:\Users\0\Desktop\C#\CustomInterface\CustomInterface\obj\Debug\CustomInterface.csprojResolveAssemblyReference.cache
+C:\Users\0\Desktop\C#\CustomInterface\CustomInterface\obj\Debug\CustomInterface.exe
+C:\Users\0\Desktop\C#\CustomInterface\CustomInterface\obj\Debug\CustomInterface.pdb

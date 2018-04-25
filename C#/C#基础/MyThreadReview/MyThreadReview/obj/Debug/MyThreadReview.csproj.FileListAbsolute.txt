@@ -1,0 +1,14 @@
+C:\Users\ccchenji\Desktop\C#\MyThreadReview\MyThreadReview\bin\Debug\MyThreadReview.exe.config
+C:\Users\ccchenji\Desktop\C#\MyThreadReview\MyThreadReview\bin\Debug\MyThreadReview.exe
+C:\Users\ccchenji\Desktop\C#\MyThreadReview\MyThreadReview\bin\Debug\MyThreadReview.pdb
+C:\Users\ccchenji\Desktop\C#\MyThreadReview\MyThreadReview\obj\Debug\MyThreadReview.csproj.CoreCompileInputs.cache
+C:\Users\ccchenji\Desktop\C#\MyThreadReview\MyThreadReview\obj\Debug\MyThreadReview.exe
+C:\Users\ccchenji\Desktop\C#\MyThreadReview\MyThreadReview\obj\Debug\MyThreadReview.pdb
+C:\Users\ccchenji\Desktop\C#\MyThreadReview\MyThreadReview\obj\Debug\MyThreadReview.csprojResolveAssemblyReference.cache
+F:\陈济轩电子设计\C#\C#\MyThreadReview\MyThreadReview\bin\Debug\MyThreadReview.exe.config
+F:\陈济轩电子设计\C#\C#\MyThreadReview\MyThreadReview\bin\Debug\MyThreadReview.exe
+F:\陈济轩电子设计\C#\C#\MyThreadReview\MyThreadReview\bin\Debug\MyThreadReview.pdb
+F:\陈济轩电子设计\C#\C#\MyThreadReview\MyThreadReview\obj\Debug\MyThreadReview.csprojResolveAssemblyReference.cache
+F:\陈济轩电子设计\C#\C#\MyThreadReview\MyThreadReview\obj\Debug\MyThreadReview.csproj.CoreCompileInputs.cache
+F:\陈济轩电子设计\C#\C#\MyThreadReview\MyThreadReview\obj\Debug\MyThreadReview.exe
+F:\陈济轩电子设计\C#\C#\MyThreadReview\MyThreadReview\obj\Debug\MyThreadReview.pdb

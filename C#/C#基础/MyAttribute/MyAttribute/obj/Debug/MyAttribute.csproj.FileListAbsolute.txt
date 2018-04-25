@@ -1,0 +1,9 @@
+C:\Users\0\Desktop\C#\MyAttribute\MyAttribute\bin\Debug\MyAttribute.exe
+C:\Users\0\Desktop\C#\MyAttribute\MyAttribute\bin\Debug\MyAttribute.pdb
+C:\Users\0\Desktop\C#\MyAttribute\MyAttribute\obj\Debug\MyAttribute.csprojResolveAssemblyReference.cache
+C:\Users\0\Desktop\C#\MyAttribute\MyAttribute\obj\Debug\MyAttribute.exe
+C:\Users\0\Desktop\C#\MyAttribute\MyAttribute\obj\Debug\MyAttribute.pdb
+C:\Users\0\Desktop\C#\MyAttribute\MyAttribute\bin\Debug\Myarray.exe
+C:\Users\0\Desktop\C#\MyAttribute\MyAttribute\bin\Debug\MyLambda.exe
+C:\Users\0\Desktop\C#\MyAttribute\MyAttribute\bin\Debug\Myarray.pdb
+C:\Users\0\Desktop\C#\MyAttribute\MyAttribute\bin\Debug\MyLambda.pdb

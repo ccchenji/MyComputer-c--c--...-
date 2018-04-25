@@ -1,0 +1,5 @@
+C:\Users\0\Desktop\c#Book\secondNight\secondNight\bin\Debug\secondNight.exe
+C:\Users\0\Desktop\c#Book\secondNight\secondNight\bin\Debug\secondNight.pdb
+C:\Users\0\Desktop\c#Book\secondNight\secondNight\obj\Debug\secondNight.csprojResolveAssemblyReference.cache
+C:\Users\0\Desktop\c#Book\secondNight\secondNight\obj\Debug\secondNight.exe
+C:\Users\0\Desktop\c#Book\secondNight\secondNight\obj\Debug\secondNight.pdb

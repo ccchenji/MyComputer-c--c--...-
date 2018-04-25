@@ -1,0 +1,6 @@
+C:\Users\0\Desktop\C#\Class_Nature\Class_Nature\bin\Debug\Class_Nature.exe.config
+C:\Users\0\Desktop\C#\Class_Nature\Class_Nature\bin\Debug\Class_Nature.exe
+C:\Users\0\Desktop\C#\Class_Nature\Class_Nature\bin\Debug\Class_Nature.pdb
+C:\Users\0\Desktop\C#\Class_Nature\Class_Nature\obj\Debug\Class_Nature.csprojResolveAssemblyReference.cache
+C:\Users\0\Desktop\C#\Class_Nature\Class_Nature\obj\Debug\Class_Nature.exe
+C:\Users\0\Desktop\C#\Class_Nature\Class_Nature\obj\Debug\Class_Nature.pdb

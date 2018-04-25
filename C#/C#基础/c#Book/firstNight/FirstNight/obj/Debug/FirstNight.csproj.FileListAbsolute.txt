@@ -1,0 +1,5 @@
+C:\Users\0\Desktop\C#\FirstNight\FirstNight\obj\Debug\FirstNight.csprojResolveAssemblyReference.cache
+C:\Users\0\Desktop\C#\FirstNight\FirstNight\bin\Debug\FirstNight.exe
+C:\Users\0\Desktop\C#\FirstNight\FirstNight\bin\Debug\FirstNight.pdb
+C:\Users\0\Desktop\C#\FirstNight\FirstNight\obj\Debug\FirstNight.exe
+C:\Users\0\Desktop\C#\FirstNight\FirstNight\obj\Debug\FirstNight.pdb

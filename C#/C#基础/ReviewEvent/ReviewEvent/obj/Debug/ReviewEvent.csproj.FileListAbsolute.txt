@@ -1,0 +1,7 @@
+C:\Users\ccchenji\Desktop\C#\ReviewEvent\ReviewEvent\bin\Debug\ReviewEvent.exe.config
+C:\Users\ccchenji\Desktop\C#\ReviewEvent\ReviewEvent\bin\Debug\ReviewEvent.exe
+C:\Users\ccchenji\Desktop\C#\ReviewEvent\ReviewEvent\bin\Debug\ReviewEvent.pdb
+C:\Users\ccchenji\Desktop\C#\ReviewEvent\ReviewEvent\obj\Debug\ReviewEvent.csprojResolveAssemblyReference.cache
+C:\Users\ccchenji\Desktop\C#\ReviewEvent\ReviewEvent\obj\Debug\ReviewEvent.csproj.CoreCompileInputs.cache
+C:\Users\ccchenji\Desktop\C#\ReviewEvent\ReviewEvent\obj\Debug\ReviewEvent.exe
+C:\Users\ccchenji\Desktop\C#\ReviewEvent\ReviewEvent\obj\Debug\ReviewEvent.pdb

@@ -1,0 +1,7 @@
+C:\Users\ccchenji\Desktop\C#\MyGeneric\MyGeneric\bin\Debug\MyGeneric.exe.config
+C:\Users\ccchenji\Desktop\C#\MyGeneric\MyGeneric\bin\Debug\MyGeneric.exe
+C:\Users\ccchenji\Desktop\C#\MyGeneric\MyGeneric\bin\Debug\MyGeneric.pdb
+C:\Users\ccchenji\Desktop\C#\MyGeneric\MyGeneric\obj\Debug\MyGeneric.csprojResolveAssemblyReference.cache
+C:\Users\ccchenji\Desktop\C#\MyGeneric\MyGeneric\obj\Debug\MyGeneric.csproj.CoreCompileInputs.cache
+C:\Users\ccchenji\Desktop\C#\MyGeneric\MyGeneric\obj\Debug\MyGeneric.exe
+C:\Users\ccchenji\Desktop\C#\MyGeneric\MyGeneric\obj\Debug\MyGeneric.pdb

@@ -1,0 +1,8 @@
+C:\Users\0\Desktop\C#\ScreenProtection\ScreenProtection\bin\Debug\ScreenProtection.exe
+C:\Users\0\Desktop\C#\ScreenProtection\ScreenProtection\bin\Debug\ScreenProtection.pdb
+C:\Users\0\Desktop\C#\ScreenProtection\ScreenProtection\obj\Debug\ScreenProtection.csprojResolveAssemblyReference.cache
+C:\Users\0\Desktop\C#\ScreenProtection\ScreenProtection\obj\Debug\ScreenProtection.Form1.resources
+C:\Users\0\Desktop\C#\ScreenProtection\ScreenProtection\obj\Debug\ScreenProtection.Properties.Resources.resources
+C:\Users\0\Desktop\C#\ScreenProtection\ScreenProtection\obj\Debug\ScreenProtection.csproj.GenerateResource.Cache
+C:\Users\0\Desktop\C#\ScreenProtection\ScreenProtection\obj\Debug\ScreenProtection.exe
+C:\Users\0\Desktop\C#\ScreenProtection\ScreenProtection\obj\Debug\ScreenProtection.pdb

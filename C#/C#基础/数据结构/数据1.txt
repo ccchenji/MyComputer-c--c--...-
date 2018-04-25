@@ -1,0 +1,203 @@
+顺序表
+#include<iostream>        
+using namespace std;
+#define LIST_INIT_SIZE 100;
+typedef int ElemType;
+typedef struct
+{
+	ElemType*elem;
+	int length;
+	int listsize;
+}Sqlist;
+int InitList_Sq(Sqlist &L)  //初始化
+{
+	L.elem = new ElemType[L.listsize];
+	if (!L.elem)return 0;  //如果不是指针中的变量，就返回0.
+	L.length = 0;
+	L.listsize = LIST_INIT_SIZE;
+	return 1;
+}
+void display(Sqlist L)    //输出
+{
+	if (L.length == 0)
+		cout << "空表" << endl;
+	cout << "递增顺序表内的元素:";
+	for (int i = 0; i < L.length; i++)
+		cout << "" << *(L.elem+i);
+		cout << endl;
+}
+int creat_Sq(Sqlist &L)   //输入地址
+{  
+	int i, n;
+	cout << "输出元素个数";
+	cin >> n;
+	cout << "递增顺序表内的元素:";
+	for (i = 0; i < L.length; i++)
+	{
+		cin >> *(L.elem);
+	}
+	return 1;
+}
+int ListInserct_Sq(Sqlist &L, int i, ElemType e)//插入元素
+{    
+	int j;
+	j = L.length;
+	for (j; j < i; j--)
+	{
+		L.elem[j] = L.elem[j-1];
+		L.elem[i] = e;
+		++L.length;  
+	}
+	return 1;
+}
+
+void main()
+{
+	int x;
+	ElemType e;
+	Sqlist La;
+	InitList_Sq(La);
+	creat_Sq(La);
+	display(La);
+	cout << "输入要插入的元素x" << endl;
+	cin >> x;
+	ListInserct_Sq(La, 2, x);
+	display(La);
+}
+22222222222222222222222
+#include <iostream>
+using namespace std;
+typedef int elemtype;
+typedef struct linknode//定义结点类型
+{
+	elemtype data;
+	struct linknode*next;
+}nodetype;
+nodetype*createlink()
+{//d为1，n为4
+	int n, d;
+	nodetype *h, *p, *s;
+	s = new nodetype;
+	s->next = NULL;
+	h = s;
+	cout << "输入元素的个数" << endl;
+	cin >> n;
+	cout << "输入每个元素:" << endl;
+	for (int i = 1; i <= n; i++)
+	{
+		cout << "输入第" << i << "个元素";
+		cin >> d;
+		p = new nodetype;
+		p->data = d; p->next = NULL;
+		s->next = p; s = s->next;
+	}
+	return h;
+}
+
+	void disp(nodetype *h)
+	{
+		nodetype *p = h->next;
+		cout << "输出一个单链表" << endl << "";
+		if (p = NULL)cout << "空表";
+		while (p!= NULL)
+		{
+			cout << p->data << "";
+			p = p->next;
+		}
+		cout << endl;
+}
+	void main()
+	{
+		disp(createlink());
+	}
+少时诵诗书所所所所所所所所所所所所所所所所
+#include <iostream>
+using namespace std;
+typedef int elemtype;
+typedef struct linknode//定义结点类型
+{
+	elemtype data;
+	struct linknode*next;
+}nodetype;
+nodetype*createlink()
+{//d为1，n为4
+	int n, d;
+	nodetype *h, *p, *s;
+	s = new nodetype;
+	s->next = NULL;
+	h = s;
+	cout << "输入元素的个数" << endl;
+	cin >> n;
+	cout << "输入每个元素:" << endl;
+	for (int i = 1; i <= n; i++)
+	{
+		cout << "输入第" << i << "个元素";
+		cin >> d;
+		p = new nodetype;
+		p->data = d; p->next = NULL;
+		s->next = p; s = s->next;
+	}
+	return h;
+}
+
+	void disp(nodetype *h)
+	{
+		nodetype *p = h->next;
+		cout << "输出一个单链表" << endl << "";
+		if (p = NULL)cout << "空表";
+		while (p!= NULL)
+		{
+			cout << p->data << "";
+			p = p->next;
+		}
+		cout << endl;
+}
+	nodetype*find(nodetype*h, int i)
+	{
+		nodetype*p = h;
+		int j = i;
+		while (p != NULL&&j < i)
+		{
+			j++; p = p->next;
+		}
+		return p;
+	}
+	nodetype*ins(nodetype *h, int t, elemtype x)
+	{
+		nodetype *p, *s;
+		s->data = x;
+		s = new nodetype;
+		s->next = NULL;
+		s->next = p->next;
+		p->next = s;
+		return s;
+	}
+	nodetype*delete(nodetype*h, int i)
+	{
+		nodetype *p = h, *s;
+		if (i == 1)
+		{
+			h = h->next;
+			free(p);
+		}
+		else
+		{
+			p = find(h, i - 1);
+			if (p != NULL&&p->next != NULL)
+			{
+				s = p->next;
+				p->next = s->next;
+				free(s);
+			}
+			else cout << "输入的i值不正确" << endl;
+		}return h;
+	}
+	void main()
+	{
+		nodetype *t;
+		t = createlink();
+			disp(t);
+			ins(t, 2, 3);
+			disp(t);
+			return 0;
+	}

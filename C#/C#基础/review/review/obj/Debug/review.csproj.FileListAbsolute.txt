@@ -1,0 +1,6 @@
+C:\Users\0\Desktop\C#\review\review\bin\Debug\review.exe.config
+C:\Users\0\Desktop\C#\review\review\bin\Debug\review.exe
+C:\Users\0\Desktop\C#\review\review\bin\Debug\review.pdb
+C:\Users\0\Desktop\C#\review\review\obj\Debug\review.csprojResolveAssemblyReference.cache
+C:\Users\0\Desktop\C#\review\review\obj\Debug\review.exe
+C:\Users\0\Desktop\C#\review\review\obj\Debug\review.pdb

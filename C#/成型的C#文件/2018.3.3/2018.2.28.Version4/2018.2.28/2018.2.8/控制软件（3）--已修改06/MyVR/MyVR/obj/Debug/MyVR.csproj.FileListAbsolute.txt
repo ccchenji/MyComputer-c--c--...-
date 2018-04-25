@@ -1,0 +1,16 @@
+C:\Users\ccchenji\Desktop\MyVR\MyVR\bin\Debug\MyVR.dll
+C:\Users\ccchenji\Desktop\MyVR\MyVR\bin\Debug\MyVR.pdb
+C:\Users\ccchenji\Desktop\MyVR\MyVR\obj\Debug\MyVR.csprojResolveAssemblyReference.cache
+C:\Users\ccchenji\Desktop\MyVR\MyVR\obj\Debug\MyVR.UserControl1.resources
+C:\Users\ccchenji\Desktop\MyVR\MyVR\obj\Debug\MyVR.csproj.GenerateResource.Cache
+C:\Users\ccchenji\Desktop\MyVR\MyVR\obj\Debug\MyVR.csproj.CoreCompileInputs.cache
+C:\Users\ccchenji\Desktop\MyVR\MyVR\obj\Debug\MyVR.dll
+C:\Users\ccchenji\Desktop\MyVR\MyVR\obj\Debug\MyVR.pdb
+C:\Users\ccchenji\Desktop\控制软件\MyVR\MyVR\bin\Debug\MyVR.dll
+C:\Users\ccchenji\Desktop\控制软件\MyVR\MyVR\bin\Debug\MyVR.pdb
+C:\Users\ccchenji\Desktop\控制软件\MyVR\MyVR\obj\Debug\MyVR.csprojResolveAssemblyReference.cache
+C:\Users\ccchenji\Desktop\控制软件\MyVR\MyVR\obj\Debug\MyVR.UserControl1.resources
+C:\Users\ccchenji\Desktop\控制软件\MyVR\MyVR\obj\Debug\MyVR.csproj.GenerateResource.Cache
+C:\Users\ccchenji\Desktop\控制软件\MyVR\MyVR\obj\Debug\MyVR.csproj.CoreCompileInputs.cache
+C:\Users\ccchenji\Desktop\控制软件\MyVR\MyVR\obj\Debug\MyVR.dll
+C:\Users\ccchenji\Desktop\控制软件\MyVR\MyVR\obj\Debug\MyVR.pdb

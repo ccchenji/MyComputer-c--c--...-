@@ -1,0 +1,11 @@
+C:\Users\ccchenji\Desktop\C#\MyWinform\MyWinform\bin\Debug\MyWinform.exe.config
+C:\Users\ccchenji\Desktop\C#\MyWinform\MyWinform\bin\Debug\MyWinform.exe
+C:\Users\ccchenji\Desktop\C#\MyWinform\MyWinform\bin\Debug\MyWinform.pdb
+C:\Users\ccchenji\Desktop\C#\MyWinform\MyWinform\obj\Debug\MyWinform.csprojResolveAssemblyReference.cache
+C:\Users\ccchenji\Desktop\C#\MyWinform\MyWinform\obj\Debug\MyWinform.Form1.resources
+C:\Users\ccchenji\Desktop\C#\MyWinform\MyWinform\obj\Debug\MyWinform.Form2.resources
+C:\Users\ccchenji\Desktop\C#\MyWinform\MyWinform\obj\Debug\MyWinform.Properties.Resources.resources
+C:\Users\ccchenji\Desktop\C#\MyWinform\MyWinform\obj\Debug\MyWinform.csproj.GenerateResource.Cache
+C:\Users\ccchenji\Desktop\C#\MyWinform\MyWinform\obj\Debug\MyWinform.csproj.CoreCompileInputs.cache
+C:\Users\ccchenji\Desktop\C#\MyWinform\MyWinform\obj\Debug\MyWinform.exe
+C:\Users\ccchenji\Desktop\C#\MyWinform\MyWinform\obj\Debug\MyWinform.pdb

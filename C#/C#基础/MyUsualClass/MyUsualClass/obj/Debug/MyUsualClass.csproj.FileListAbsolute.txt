@@ -1,0 +1,5 @@
+C:\Users\0\Desktop\C#\MyUsualClass\MyUsualClass\bin\Debug\MyUsualClass.exe
+C:\Users\0\Desktop\C#\MyUsualClass\MyUsualClass\bin\Debug\MyUsualClass.pdb
+C:\Users\0\Desktop\C#\MyUsualClass\MyUsualClass\obj\Debug\MyUsualClass.exe
+C:\Users\0\Desktop\C#\MyUsualClass\MyUsualClass\obj\Debug\MyUsualClass.pdb
+C:\Users\0\Desktop\C#\MyUsualClass\MyUsualClass\obj\Debug\MyUsualClass.csprojResolveAssemblyReference.cache

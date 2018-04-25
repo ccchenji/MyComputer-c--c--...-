@@ -1,0 +1,7 @@
+C:\Users\ccchenji\Desktop\C#\MyDifferentThread\MyDifferentThread\bin\Debug\MyDifferentThread.exe.config
+C:\Users\ccchenji\Desktop\C#\MyDifferentThread\MyDifferentThread\bin\Debug\MyDifferentThread.exe
+C:\Users\ccchenji\Desktop\C#\MyDifferentThread\MyDifferentThread\bin\Debug\MyDifferentThread.pdb
+C:\Users\ccchenji\Desktop\C#\MyDifferentThread\MyDifferentThread\obj\Debug\MyDifferentThread.csprojResolveAssemblyReference.cache
+C:\Users\ccchenji\Desktop\C#\MyDifferentThread\MyDifferentThread\obj\Debug\MyDifferentThread.csproj.CoreCompileInputs.cache
+C:\Users\ccchenji\Desktop\C#\MyDifferentThread\MyDifferentThread\obj\Debug\MyDifferentThread.exe
+C:\Users\ccchenji\Desktop\C#\MyDifferentThread\MyDifferentThread\obj\Debug\MyDifferentThread.pdb

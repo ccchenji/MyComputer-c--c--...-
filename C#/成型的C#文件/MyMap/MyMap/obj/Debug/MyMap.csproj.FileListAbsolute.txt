@@ -1,0 +1,9 @@
+C:\Users\ccchenji\Desktop\MyMap\MyMap\bin\Debug\MyMap.exe
+C:\Users\ccchenji\Desktop\MyMap\MyMap\bin\Debug\MyMap.pdb
+C:\Users\ccchenji\Desktop\MyMap\MyMap\obj\Debug\MyMap.csprojResolveAssemblyReference.cache
+C:\Users\ccchenji\Desktop\MyMap\MyMap\obj\Debug\MyMap.Form1.resources
+C:\Users\ccchenji\Desktop\MyMap\MyMap\obj\Debug\MyMap.Properties.Resources.resources
+C:\Users\ccchenji\Desktop\MyMap\MyMap\obj\Debug\MyMap.csproj.GenerateResource.Cache
+C:\Users\ccchenji\Desktop\MyMap\MyMap\obj\Debug\MyMap.csproj.CoreCompileInputs.cache
+C:\Users\ccchenji\Desktop\MyMap\MyMap\obj\Debug\MyMap.exe
+C:\Users\ccchenji\Desktop\MyMap\MyMap\obj\Debug\MyMap.pdb

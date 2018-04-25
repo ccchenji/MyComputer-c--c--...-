@@ -1,0 +1,14 @@
+C:\Users\ccchenji\Desktop\C#\MyThread\MyThread\bin\Debug\MyThread.exe.config
+C:\Users\ccchenji\Desktop\C#\MyThread\MyThread\bin\Debug\MyThread.exe
+C:\Users\ccchenji\Desktop\C#\MyThread\MyThread\bin\Debug\MyThread.pdb
+C:\Users\ccchenji\Desktop\C#\MyThread\MyThread\obj\Debug\MyThread.csprojResolveAssemblyReference.cache
+C:\Users\ccchenji\Desktop\C#\MyThread\MyThread\obj\Debug\MyThread.csproj.CoreCompileInputs.cache
+C:\Users\ccchenji\Desktop\C#\MyThread\MyThread\obj\Debug\MyThread.exe
+C:\Users\ccchenji\Desktop\C#\MyThread\MyThread\obj\Debug\MyThread.pdb
+F:\陈济轩电子设计\C#\C#\MyThread\MyThread\bin\Debug\MyThread.exe.config
+F:\陈济轩电子设计\C#\C#\MyThread\MyThread\bin\Debug\MyThread.exe
+F:\陈济轩电子设计\C#\C#\MyThread\MyThread\bin\Debug\MyThread.pdb
+F:\陈济轩电子设计\C#\C#\MyThread\MyThread\obj\Debug\MyThread.csprojResolveAssemblyReference.cache
+F:\陈济轩电子设计\C#\C#\MyThread\MyThread\obj\Debug\MyThread.csproj.CoreCompileInputs.cache
+F:\陈济轩电子设计\C#\C#\MyThread\MyThread\obj\Debug\MyThread.exe
+F:\陈济轩电子设计\C#\C#\MyThread\MyThread\obj\Debug\MyThread.pdb

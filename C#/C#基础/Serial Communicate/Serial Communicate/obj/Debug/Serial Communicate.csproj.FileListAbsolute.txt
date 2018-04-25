@@ -1,0 +1,9 @@
+C:\Users\0\Desktop\C#\Serial Communicate\Serial Communicate\bin\Debug\Serial Communicate.exe.config
+C:\Users\0\Desktop\C#\Serial Communicate\Serial Communicate\bin\Debug\Serial Communicate.exe
+C:\Users\0\Desktop\C#\Serial Communicate\Serial Communicate\bin\Debug\Serial Communicate.pdb
+C:\Users\0\Desktop\C#\Serial Communicate\Serial Communicate\obj\Debug\Serial Communicate.csprojResolveAssemblyReference.cache
+C:\Users\0\Desktop\C#\Serial Communicate\Serial Communicate\obj\Debug\Serial_Communicate.Form1.resources
+C:\Users\0\Desktop\C#\Serial Communicate\Serial Communicate\obj\Debug\Serial_Communicate.Properties.Resources.resources
+C:\Users\0\Desktop\C#\Serial Communicate\Serial Communicate\obj\Debug\Serial Communicate.csproj.GenerateResource.Cache
+C:\Users\0\Desktop\C#\Serial Communicate\Serial Communicate\obj\Debug\Serial Communicate.exe
+C:\Users\0\Desktop\C#\Serial Communicate\Serial Communicate\obj\Debug\Serial Communicate.pdb

@@ -1,0 +1,5 @@
+C:\Users\0\Desktop\C#\Mynature\Mynature\bin\Debug\Mynature.exe
+C:\Users\0\Desktop\C#\Mynature\Mynature\bin\Debug\Mynature.pdb
+C:\Users\0\Desktop\C#\Mynature\Mynature\obj\Debug\Mynature.csprojResolveAssemblyReference.cache
+C:\Users\0\Desktop\C#\Mynature\Mynature\obj\Debug\Mynature.exe
+C:\Users\0\Desktop\C#\Mynature\Mynature\obj\Debug\Mynature.pdb

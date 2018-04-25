@@ -1,0 +1,6 @@
+C:\Users\ccchenji\Desktop\C#\MyEnd\MyEnd\bin\Debug\MyEnd.exe
+C:\Users\ccchenji\Desktop\C#\MyEnd\MyEnd\bin\Debug\MyEnd.pdb
+C:\Users\ccchenji\Desktop\C#\MyEnd\MyEnd\obj\Debug\MyEnd.csprojResolveAssemblyReference.cache
+C:\Users\ccchenji\Desktop\C#\MyEnd\MyEnd\obj\Debug\MyEnd.csproj.CoreCompileInputs.cache
+C:\Users\ccchenji\Desktop\C#\MyEnd\MyEnd\obj\Debug\MyEnd.exe
+C:\Users\ccchenji\Desktop\C#\MyEnd\MyEnd\obj\Debug\MyEnd.pdb

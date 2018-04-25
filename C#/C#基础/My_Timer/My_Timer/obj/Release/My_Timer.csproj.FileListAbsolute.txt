@@ -1,0 +1,8 @@
+C:\Users\0\Desktop\C#\My_Timer\My_Timer\bin\Release\My_Timer.exe.config
+C:\Users\0\Desktop\C#\My_Timer\My_Timer\bin\Release\My_Timer.exe
+C:\Users\0\Desktop\C#\My_Timer\My_Timer\bin\Release\My_Timer.pdb
+C:\Users\0\Desktop\C#\My_Timer\My_Timer\obj\Release\My_Timer.Form1.resources
+C:\Users\0\Desktop\C#\My_Timer\My_Timer\obj\Release\My_Timer.Properties.Resources.resources
+C:\Users\0\Desktop\C#\My_Timer\My_Timer\obj\Release\My_Timer.csproj.GenerateResource.Cache
+C:\Users\0\Desktop\C#\My_Timer\My_Timer\obj\Release\My_Timer.exe
+C:\Users\0\Desktop\C#\My_Timer\My_Timer\obj\Release\My_Timer.pdb

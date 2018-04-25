@@ -1,0 +1,8 @@
+C:\Users\0\Desktop\C#\ArrageGame\ArrageGame\bin\Debug\ArrageGame.exe
+C:\Users\0\Desktop\C#\ArrageGame\ArrageGame\bin\Debug\ArrageGame.pdb
+C:\Users\0\Desktop\C#\ArrageGame\ArrageGame\obj\Debug\ArrageGame.csprojResolveAssemblyReference.cache
+C:\Users\0\Desktop\C#\ArrageGame\ArrageGame\obj\Debug\ArrageGame.Form1.resources
+C:\Users\0\Desktop\C#\ArrageGame\ArrageGame\obj\Debug\ArrageGame.Properties.Resources.resources
+C:\Users\0\Desktop\C#\ArrageGame\ArrageGame\obj\Debug\ArrageGame.csproj.GenerateResource.Cache
+C:\Users\0\Desktop\C#\ArrageGame\ArrageGame\obj\Debug\ArrageGame.exe
+C:\Users\0\Desktop\C#\ArrageGame\ArrageGame\obj\Debug\ArrageGame.pdb
