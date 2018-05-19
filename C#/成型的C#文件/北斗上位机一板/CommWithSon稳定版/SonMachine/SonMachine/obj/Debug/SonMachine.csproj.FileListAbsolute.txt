@@ -1,0 +1,30 @@
+C:\Users\ccchenji\Desktop\CommWithSon\SonMachine\SonMachine\bin\Debug\SonMachine.exe.config
+C:\Users\ccchenji\Desktop\CommWithSon\SonMachine\SonMachine\bin\Debug\SonMachine.exe
+C:\Users\ccchenji\Desktop\CommWithSon\SonMachine\SonMachine\bin\Debug\SonMachine.pdb
+C:\Users\ccchenji\Desktop\CommWithSon\SonMachine\SonMachine\obj\Debug\SonMachine.csprojResolveAssemblyReference.cache
+C:\Users\ccchenji\Desktop\CommWithSon\SonMachine\SonMachine\obj\Debug\SonMachine.Form1.resources
+C:\Users\ccchenji\Desktop\CommWithSon\SonMachine\SonMachine\obj\Debug\SonMachine.Properties.Resources.resources
+C:\Users\ccchenji\Desktop\CommWithSon\SonMachine\SonMachine\obj\Debug\SonMachine.csproj.GenerateResource.cache
+C:\Users\ccchenji\Desktop\CommWithSon\SonMachine\SonMachine\obj\Debug\SonMachine.csproj.CoreCompileInputs.cache
+C:\Users\ccchenji\Desktop\CommWithSon\SonMachine\SonMachine\obj\Debug\SonMachine.exe
+C:\Users\ccchenji\Desktop\CommWithSon\SonMachine\SonMachine\obj\Debug\SonMachine.pdb
+C:\Users\ccchenji\Desktop\CommWithSon - 副本\SonMachine\SonMachine\bin\Debug\SonMachine.exe.config
+C:\Users\ccchenji\Desktop\CommWithSon - 副本\SonMachine\SonMachine\bin\Debug\SonMachine.exe
+C:\Users\ccchenji\Desktop\CommWithSon - 副本\SonMachine\SonMachine\bin\Debug\SonMachine.pdb
+C:\Users\ccchenji\Desktop\CommWithSon - 副本\SonMachine\SonMachine\obj\Debug\SonMachine.csprojResolveAssemblyReference.cache
+C:\Users\ccchenji\Desktop\CommWithSon - 副本\SonMachine\SonMachine\obj\Debug\SonMachine.Form1.resources
+C:\Users\ccchenji\Desktop\CommWithSon - 副本\SonMachine\SonMachine\obj\Debug\SonMachine.Properties.Resources.resources
+C:\Users\ccchenji\Desktop\CommWithSon - 副本\SonMachine\SonMachine\obj\Debug\SonMachine.csproj.GenerateResource.cache
+C:\Users\ccchenji\Desktop\CommWithSon - 副本\SonMachine\SonMachine\obj\Debug\SonMachine.csproj.CoreCompileInputs.cache
+C:\Users\ccchenji\Desktop\CommWithSon - 副本\SonMachine\SonMachine\obj\Debug\SonMachine.exe
+C:\Users\ccchenji\Desktop\CommWithSon - 副本\SonMachine\SonMachine\obj\Debug\SonMachine.pdb
+F:\常用文件\CommWithSon - 副本\SonMachine\SonMachine\bin\Debug\SonMachine.exe.config
+F:\常用文件\CommWithSon - 副本\SonMachine\SonMachine\bin\Debug\SonMachine.exe
+F:\常用文件\CommWithSon - 副本\SonMachine\SonMachine\bin\Debug\SonMachine.pdb
+F:\常用文件\CommWithSon - 副本\SonMachine\SonMachine\obj\Debug\SonMachine.csprojResolveAssemblyReference.cache
+F:\常用文件\CommWithSon - 副本\SonMachine\SonMachine\obj\Debug\SonMachine.Form1.resources
+F:\常用文件\CommWithSon - 副本\SonMachine\SonMachine\obj\Debug\SonMachine.Properties.Resources.resources
+F:\常用文件\CommWithSon - 副本\SonMachine\SonMachine\obj\Debug\SonMachine.csproj.GenerateResource.cache
+F:\常用文件\CommWithSon - 副本\SonMachine\SonMachine\obj\Debug\SonMachine.csproj.CoreCompileInputs.cache
+F:\常用文件\CommWithSon - 副本\SonMachine\SonMachine\obj\Debug\SonMachine.exe
+F:\常用文件\CommWithSon - 副本\SonMachine\SonMachine\obj\Debug\SonMachine.pdb

@@ -1,0 +1,5 @@
+C:\Users\MORPHEUS\Desktop\毕业设计\上位机\greatmaps-master\Setup\GMap.NET - Hot Build\bin\Debug\GMap.NET.exe.config
+C:\Users\MORPHEUS\Desktop\毕业设计\上位机\greatmaps-master\Setup\GMap.NET - Hot Build\obj\Debug\GMap.NET - Hot Build.csprojResolveAssemblyReference.cache
+C:\Users\MORPHEUS\Desktop\毕业设计\上位机\greatmaps-master\Setup\GMap.NET - Hot Build\obj\Debug\GMap.NET___Hot_Build.MainForm.resources
+C:\Users\MORPHEUS\Desktop\毕业设计\上位机\greatmaps-master\Setup\GMap.NET - Hot Build\obj\Debug\GMap.NET___Hot_Build.Properties.Resources.resources
+C:\Users\MORPHEUS\Desktop\毕业设计\上位机\greatmaps-master\Setup\GMap.NET - Hot Build\obj\Debug\GMap.NET - Hot Build.csproj.GenerateResource.Cache

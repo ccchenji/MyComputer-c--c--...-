@@ -1,0 +1,10 @@
+C:\Users\ccchenji\Desktop\CommWithSon\SonMachine\SonMachine\bin\Debug\SonMachine.exe.config
+C:\Users\ccchenji\Desktop\CommWithSon\SonMachine\SonMachine\bin\Debug\SonMachine.exe
+C:\Users\ccchenji\Desktop\CommWithSon\SonMachine\SonMachine\bin\Debug\SonMachine.pdb
+C:\Users\ccchenji\Desktop\CommWithSon\SonMachine\SonMachine\obj\Debug\SonMachine.csprojResolveAssemblyReference.cache
+C:\Users\ccchenji\Desktop\CommWithSon\SonMachine\SonMachine\obj\Debug\SonMachine.Form1.resources
+C:\Users\ccchenji\Desktop\CommWithSon\SonMachine\SonMachine\obj\Debug\SonMachine.Properties.Resources.resources
+C:\Users\ccchenji\Desktop\CommWithSon\SonMachine\SonMachine\obj\Debug\SonMachine.csproj.GenerateResource.cache
+C:\Users\ccchenji\Desktop\CommWithSon\SonMachine\SonMachine\obj\Debug\SonMachine.csproj.CoreCompileInputs.cache
+C:\Users\ccchenji\Desktop\CommWithSon\SonMachine\SonMachine\obj\Debug\SonMachine.exe
+C:\Users\ccchenji\Desktop\CommWithSon\SonMachine\SonMachine\obj\Debug\SonMachine.pdb

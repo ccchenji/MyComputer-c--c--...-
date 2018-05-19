@@ -1,0 +1,9 @@
+C:\Users\ccchenji\Desktop\CommCar\CommCar\MyTool\bin\Debug\MyTool.dll
+C:\Users\ccchenji\Desktop\CommCar\CommCar\MyTool\bin\Debug\MyTool.pdb
+C:\Users\ccchenji\Desktop\CommCar\CommCar\MyTool\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\ccchenji\Desktop\CommCar\CommCar\MyTool\bin\Debug\zh-CHS\System.Data.SqlServerCe.resources.dll
+C:\Users\ccchenji\Desktop\CommCar\CommCar\MyTool\obj\Debug\MyTool.csproj.CoreCompileInputs.cache
+C:\Users\ccchenji\Desktop\CommCar\CommCar\MyTool\obj\Debug\MyTool.csproj.CopyComplete
+C:\Users\ccchenji\Desktop\CommCar\CommCar\MyTool\obj\Debug\MyTool.dll
+C:\Users\ccchenji\Desktop\CommCar\CommCar\MyTool\obj\Debug\MyTool.pdb
+C:\Users\ccchenji\Desktop\CommCar\CommCar\MyTool\obj\Debug\MyTool.csprojResolveAssemblyReference.cache

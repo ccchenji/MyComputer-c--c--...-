@@ -1,0 +1,28 @@
+c:\users\andrispc\documents\Visual Studio 2013\Projects\Office2013StyleSplashScreen\Office2013StyleSplashScreen\bin\Debug\Office2013StyleSplashScreen.exe.config
+c:\users\andrispc\documents\Visual Studio 2013\Projects\Office2013StyleSplashScreen\Office2013StyleSplashScreen\bin\Debug\Office2013StyleSplashScreen.exe
+c:\users\andrispc\documents\Visual Studio 2013\Projects\Office2013StyleSplashScreen\Office2013StyleSplashScreen\bin\Debug\Office2013StyleSplashScreen.pdb
+c:\users\andrispc\documents\Visual Studio 2013\Projects\Office2013StyleSplashScreen\Office2013StyleSplashScreen\obj\Debug\Office2013StyleSplashScreen.csprojResolveAssemblyReference.cache
+c:\users\andrispc\documents\Visual Studio 2013\Projects\Office2013StyleSplashScreen\Office2013StyleSplashScreen\obj\Debug\Office2013StyleSplashScreen.Form1.resources
+c:\users\andrispc\documents\Visual Studio 2013\Projects\Office2013StyleSplashScreen\Office2013StyleSplashScreen\obj\Debug\Office2013StyleSplashScreen.Properties.Resources.resources
+c:\users\andrispc\documents\Visual Studio 2013\Projects\Office2013StyleSplashScreen\Office2013StyleSplashScreen\obj\Debug\Office2013StyleSplashScreen.Splash.resources
+c:\users\andrispc\documents\Visual Studio 2013\Projects\Office2013StyleSplashScreen\Office2013StyleSplashScreen\obj\Debug\Office2013StyleSplashScreen.csproj.GenerateResource.Cache
+c:\users\andrispc\documents\Visual Studio 2013\Projects\Office2013StyleSplashScreen\Office2013StyleSplashScreen\obj\Debug\Office2013StyleSplashScreen.exe
+c:\users\andrispc\documents\Visual Studio 2013\Projects\Office2013StyleSplashScreen\Office2013StyleSplashScreen\obj\Debug\Office2013StyleSplashScreen.pdb
+C:\Users\AndrisPC\documents\Visual Studio 2013\Projects\Office2013StyleSplashScreen\Office2013StyleSplashScreen\bin\Debug\MetroProgressBar.dll
+C:\Users\AndrisPC\documents\Visual Studio 2013\Projects\Office2013StyleSplashScreen\Office2013StyleSplashScreen\bin\Debug\MetroProgressBar.pdb
+C:\Users\AndrisPC\Pictures\officesplash\Office2013StyleSplashScreen\Office2013StyleSplashScreen\bin\Debug\Office2013StyleSplashScreen.exe.config
+C:\Users\AndrisPC\Pictures\officesplash\Office2013StyleSplashScreen\Office2013StyleSplashScreen\obj\Debug\Office2013StyleSplashScreen.exe
+C:\Users\AndrisPC\Pictures\officesplash\Office2013StyleSplashScreen\Office2013StyleSplashScreen\obj\Debug\Office2013StyleSplashScreen.pdb
+C:\Users\ccchenji\Desktop\C#\Office2013StyleSplashScreen\bin\Debug\Office2013StyleSplashScreen.exe.config
+C:\Users\ccchenji\Desktop\C#\Office2013StyleSplashScreen\bin\Debug\Office2013StyleSplashScreen.exe
+C:\Users\ccchenji\Desktop\C#\Office2013StyleSplashScreen\bin\Debug\Office2013StyleSplashScreen.pdb
+C:\Users\ccchenji\Desktop\C#\Office2013StyleSplashScreen\bin\Debug\MetroProgressBar.pdb
+C:\Users\ccchenji\Desktop\C#\Office2013StyleSplashScreen\obj\Debug\Office2013StyleSplashScreen.csprojResolveAssemblyReference.cache
+C:\Users\ccchenji\Desktop\C#\Office2013StyleSplashScreen\obj\Debug\Office2013StyleSplashScreen.Form1.resources
+C:\Users\ccchenji\Desktop\C#\Office2013StyleSplashScreen\obj\Debug\Office2013StyleSplashScreen.Properties.Resources.resources
+C:\Users\ccchenji\Desktop\C#\Office2013StyleSplashScreen\obj\Debug\Office2013StyleSplashScreen.Splash.resources
+C:\Users\ccchenji\Desktop\C#\Office2013StyleSplashScreen\obj\Debug\Office2013StyleSplashScreen.csproj.GenerateResource.cache
+C:\Users\ccchenji\Desktop\C#\Office2013StyleSplashScreen\obj\Debug\Office2013StyleSplashScreen.csproj.CoreCompileInputs.cache
+C:\Users\ccchenji\Desktop\C#\Office2013StyleSplashScreen\obj\Debug\Office2013StyleSplashScreen.csproj.CopyComplete
+C:\Users\ccchenji\Desktop\C#\Office2013StyleSplashScreen\obj\Debug\Office2013StyleSplashScreen.exe
+C:\Users\ccchenji\Desktop\C#\Office2013StyleSplashScreen\obj\Debug\Office2013StyleSplashScreen.pdb

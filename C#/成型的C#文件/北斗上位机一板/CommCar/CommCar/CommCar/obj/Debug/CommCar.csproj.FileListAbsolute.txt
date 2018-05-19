@@ -1,0 +1,55 @@
+C:\Users\ccchenji\Desktop\CommCar\CommCar\CommCar\bin\Debug\CommCar.exe.config
+C:\Users\ccchenji\Desktop\CommCar\CommCar\CommCar\bin\Debug\CommCar.exe
+C:\Users\ccchenji\Desktop\CommCar\CommCar\CommCar\bin\Debug\CommCar.pdb
+C:\Users\ccchenji\Desktop\CommCar\CommCar\CommCar\obj\Debug\CommCar.Form1.resources
+C:\Users\ccchenji\Desktop\CommCar\CommCar\CommCar\obj\Debug\CommCar.Properties.Resources.resources
+C:\Users\ccchenji\Desktop\CommCar\CommCar\CommCar\obj\Debug\CommCar.csproj.GenerateResource.cache
+C:\Users\ccchenji\Desktop\CommCar\CommCar\CommCar\obj\Debug\CommCar.csproj.CoreCompileInputs.cache
+C:\Users\ccchenji\Desktop\CommCar\CommCar\CommCar\obj\Debug\CommCar.exe
+C:\Users\ccchenji\Desktop\CommCar\CommCar\CommCar\obj\Debug\CommCar.pdb
+C:\Users\ccchenji\Desktop\CommCar\CommCar\CommCar\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\ccchenji\Desktop\CommCar\CommCar\CommCar\bin\Debug\zh-CHS\System.Data.SqlServerCe.resources.dll
+C:\Users\ccchenji\Desktop\CommCar\CommCar\CommCar\obj\Debug\CommCar.csproj.CopyComplete
+C:\Users\ccchenji\Desktop\CommCar\CommCar\CommCar\bin\Debug\MyTool.dll
+C:\Users\ccchenji\Desktop\CommCar\CommCar\CommCar\bin\Debug\MyTool.pdb
+C:\Users\ccchenji\Desktop\CommCar\CommCar\CommCar\obj\Debug\CommCar.csprojResolveAssemblyReference.cache
+C:\Users\ccchenji\Desktop\CommCar\CommCar\CommCar\obj\Debug\CommCar.OpenForm.resources
+C:\Users\ccchenji\Desktop\CommCar\CommCar\CommCar\bin\Debug\CSkin.dll
+C:\Users\ccchenji\Desktop\CommCar\CommCar\CommCar\bin\Debug\CSkin.xml
+C:\Users\ccchenji\Desktop\CommCar - 副本\CommCar\CommCar\bin\Debug\CommCar.exe.config
+C:\Users\ccchenji\Desktop\CommCar - 副本\CommCar\CommCar\bin\Debug\CommCar.exe
+C:\Users\ccchenji\Desktop\CommCar - 副本\CommCar\CommCar\bin\Debug\CommCar.pdb
+C:\Users\ccchenji\Desktop\CommCar - 副本\CommCar\CommCar\bin\Debug\CSkin.dll
+C:\Users\ccchenji\Desktop\CommCar - 副本\CommCar\CommCar\bin\Debug\MyTool.dll
+C:\Users\ccchenji\Desktop\CommCar - 副本\CommCar\CommCar\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\ccchenji\Desktop\CommCar - 副本\CommCar\CommCar\bin\Debug\CSkin.xml
+C:\Users\ccchenji\Desktop\CommCar - 副本\CommCar\CommCar\bin\Debug\MyTool.pdb
+C:\Users\ccchenji\Desktop\CommCar - 副本\CommCar\CommCar\bin\Debug\zh-CHS\System.Data.SqlServerCe.resources.dll
+C:\Users\ccchenji\Desktop\CommCar - 副本\CommCar\CommCar\obj\Debug\CommCar.csprojResolveAssemblyReference.cache
+C:\Users\ccchenji\Desktop\CommCar - 副本\CommCar\CommCar\obj\Debug\CommCar.Form1.resources
+C:\Users\ccchenji\Desktop\CommCar - 副本\CommCar\CommCar\obj\Debug\CommCar.OpenForm.resources
+C:\Users\ccchenji\Desktop\CommCar - 副本\CommCar\CommCar\obj\Debug\CommCar.Properties.Resources.resources
+C:\Users\ccchenji\Desktop\CommCar - 副本\CommCar\CommCar\obj\Debug\CommCar.csproj.GenerateResource.cache
+C:\Users\ccchenji\Desktop\CommCar - 副本\CommCar\CommCar\obj\Debug\CommCar.csproj.CoreCompileInputs.cache
+C:\Users\ccchenji\Desktop\CommCar - 副本\CommCar\CommCar\obj\Debug\CommCar.csproj.CopyComplete
+C:\Users\ccchenji\Desktop\CommCar - 副本\CommCar\CommCar\obj\Debug\CommCar.exe
+C:\Users\ccchenji\Desktop\CommCar - 副本\CommCar\CommCar\obj\Debug\CommCar.pdb
+C:\Users\ccchenji\Desktop\CommCar - 副本\CommCar\CommCar\bin\Debug\MetroProgressBar.pdb
+C:\Users\ccchenji\Desktop\CommCar\CommCar\CommCar\bin\Debug\MetroProgressBar.pdb
+F:\常用文件\CommCar\CommCar\CommCar\bin\Debug\CommCar.exe.config
+F:\常用文件\CommCar\CommCar\CommCar\bin\Debug\CommCar.exe
+F:\常用文件\CommCar\CommCar\CommCar\bin\Debug\CommCar.pdb
+F:\常用文件\CommCar\CommCar\CommCar\bin\Debug\CSkin.dll
+F:\常用文件\CommCar\CommCar\CommCar\bin\Debug\MyTool.dll
+F:\常用文件\CommCar\CommCar\CommCar\bin\Debug\CSkin.xml
+F:\常用文件\CommCar\CommCar\CommCar\bin\Debug\MetroProgressBar.pdb
+F:\常用文件\CommCar\CommCar\CommCar\bin\Debug\MyTool.pdb
+F:\常用文件\CommCar\CommCar\CommCar\obj\Debug\CommCar.csprojResolveAssemblyReference.cache
+F:\常用文件\CommCar\CommCar\CommCar\obj\Debug\CommCar.Form1.resources
+F:\常用文件\CommCar\CommCar\CommCar\obj\Debug\CommCar.OpenForm.resources
+F:\常用文件\CommCar\CommCar\CommCar\obj\Debug\CommCar.Properties.Resources.resources
+F:\常用文件\CommCar\CommCar\CommCar\obj\Debug\CommCar.csproj.GenerateResource.cache
+F:\常用文件\CommCar\CommCar\CommCar\obj\Debug\CommCar.csproj.CoreCompileInputs.cache
+F:\常用文件\CommCar\CommCar\CommCar\obj\Debug\CommCar.csproj.CopyComplete
+F:\常用文件\CommCar\CommCar\CommCar\obj\Debug\CommCar.exe
+F:\常用文件\CommCar\CommCar\CommCar\obj\Debug\CommCar.pdb
