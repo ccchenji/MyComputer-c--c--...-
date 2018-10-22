@@ -1,9 +1,9 @@
-C51 COMPILER V9.01   SNAKE                                                                 11/24/2017 02:41:47 PAGE 1   
+C51 COMPILER V9.01   SNAKE                                                                 07/29/2018 22:13:15 PAGE 1   
 
 
 C51 COMPILER V9.01, COMPILATION OF MODULE SNAKE
 OBJECT MODULE PLACED IN snake.OBJ
-COMPILER INVOKED BY: D:\KEIL5\C51\BIN\C51.EXE snake.c LARGE ROM(COMPACT) OPTIMIZE(8,SPEED) BROWSE DEBUG OBJECTEXTEND TAB
+COMPILER INVOKED BY: F:\Keil5\C51\BIN\C51.EXE snake.c LARGE ROM(COMPACT) OPTIMIZE(8,SPEED) BROWSE DEBUG OBJECTEXTEND TAB
                     -S(2)
 
 line level    source
@@ -62,7 +62,7 @@ line level    source
   52   2            }
   53   1      }
   54          
-C51 COMPILER V9.01   SNAKE                                                                 11/24/2017 02:41:47 PAGE 2   
+C51 COMPILER V9.01   SNAKE                                                                 07/29/2018 22:13:15 PAGE 2   
 
   55          //获得蛇的食物
   56          void foods()
@@ -126,7 +126,7 @@ line level    source
  114   3            x+=1;
  115   3           }
  116   2           if(flag_x_bank==1)
-C51 COMPILER V9.01   SNAKE                                                                 11/24/2017 02:41:47 PAGE 3   
+C51 COMPILER V9.01   SNAKE                                                                 07/29/2018 22:13:15 PAGE 3   
 
  117   2           {
  118   3            x-=1;
@@ -190,7 +190,7 @@ line level    source
  176   3           } 
  177   2           while(!Key4);
  178   2         }else
-C51 COMPILER V9.01   SNAKE                                                                 11/24/2017 02:41:47 PAGE 4   
+C51 COMPILER V9.01   SNAKE                                                                 07/29/2018 22:13:15 PAGE 4   
 
  179   1         if(Key3==0)
  180   1         {
@@ -254,7 +254,7 @@ line level    source
  238   1        if(timer<=0)
  239   1        {
  240   2           timer=0;
-C51 COMPILER V9.01   SNAKE                                                                 11/24/2017 02:41:47 PAGE 5   
+C51 COMPILER V9.01   SNAKE                                                                 07/29/2018 22:13:15 PAGE 5   
 
  241   2        }
  242   1        if(i>=100)
